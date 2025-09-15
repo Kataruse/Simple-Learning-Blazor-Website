@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
+      "Id": "C:\\Users\\nicka\\Source\\Repos\\Simple-Learning-Blazor-Website\\BlazorLearningActivity\\wwwroot\\css\\generic.css",
+      "PackagePath": "staticwebassets\\css\\generic.css"
+    },
+    {
+      "Id": "C:\\Users\\nicka\\Source\\Repos\\Simple-Learning-Blazor-Website\\BlazorLearningActivity\\wwwroot\\css\\navbar.css",
+      "PackagePath": "staticwebassets\\css\\navbar.css"
+    },
+    {
       "Id": "C:\\Users\\nicka\\Source\\Repos\\Simple-Learning-Blazor-Website\\BlazorLearningActivity\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

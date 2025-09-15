@@ -1,0 +1,30 @@
+﻿@inject NavigationManager NavigationManager
+
+<link href="./css/navbar.css" rel="stylesheet" />
+
+
+<nav class="navbar">
+    <ul class="navbar-links">
+        @if (!IsCurrentPage("/"))
+        {
+            <li><NavLink href="/" Match="NavLinkMatch.All">Homepage</NavLink></li>
+        }
+        @if (!IsCurrentPage("/page2"))
+        {
+            <li><NavLink href="/page2">Page 2</NavLink></li>
+        }
+    </ul>
+</nav>
+
+@code {
+    protected override void OnInitialized()
+    {
+        NavigationManager.LocationChanged += (_, __) => StateHasChanged();
+    }
+
+    private bool IsCurrentPage(string href)
+    {
+        var relative = NavigationManager.Uri.Replace(NavigationManager.BaseUri, "/").TrimEnd('/');
+        return string.Equals(relative, href.TrimEnd('/'), StringComparison.OrdinalIgnoreCase);
+    }
+}

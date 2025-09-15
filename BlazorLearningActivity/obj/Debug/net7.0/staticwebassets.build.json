@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J265+LYq9Ttz+73nlb0KTQ5+idyXg/hA/fMw9lZirys=",
+  "Hash": "mzCTdU0rEqsN7wroxk+tQ0GYmmvRAvbdPfbrpAo2VDY=",
   "Source": "BlazorLearningActivity",
   "BasePath": "/",
   "Mode": "Root",
@@ -6883,6 +6883,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\nicka\\Source\\Repos\\Simple-Learning-Blazor-Website\\BlazorLearningActivity\\wwwroot\\css\\generic.css",
+      "SourceId": "BlazorLearningActivity",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nicka\\Source\\Repos\\Simple-Learning-Blazor-Website\\BlazorLearningActivity\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/generic.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\generic.css"
+    },
+    {
+      "Identity": "C:\\Users\\nicka\\Source\\Repos\\Simple-Learning-Blazor-Website\\BlazorLearningActivity\\wwwroot\\css\\navbar.css",
+      "SourceId": "BlazorLearningActivity",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nicka\\Source\\Repos\\Simple-Learning-Blazor-Website\\BlazorLearningActivity\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/navbar.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\navbar.css"
     },
     {
       "Identity": "C:\\Users\\nicka\\Source\\Repos\\Simple-Learning-Blazor-Website\\BlazorLearningActivity\\wwwroot\\index.html",

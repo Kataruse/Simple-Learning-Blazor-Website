@@ -823,7 +823,10 @@ C:\Users\nicka\Documents\Personal\08_Self-Development\01_Programming\04_VS-Code\
 C:\Users\nicka\Documents\Personal\08_Self-Development\01_Programming\04_VS-Code\BlazorLearningActivity\BlazorLearningActivity\obj\Debug\net7.0\refint\BlazorLearningActivity.dll
 C:\Users\nicka\Documents\Personal\08_Self-Development\01_Programming\04_VS-Code\BlazorLearningActivity\BlazorLearningActivity\obj\Debug\net7.0\BlazorLearningActivity.pdb
 C:\Users\nicka\Documents\Personal\08_Self-Development\01_Programming\04_VS-Code\BlazorLearningActivity\BlazorLearningActivity\obj\Debug\net7.0\ref\BlazorLearningActivity.dll
+C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\BlazorLearningActivity.dll
+C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\BlazorLearningActivity.pdb
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.4.h4wz5xxpc8.js
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
@@ -1077,6 +1080,7 @@ C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivit
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll.gz
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\BlazorLearningActivity.pdb.gz
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
@@ -1140,6 +1144,7 @@ C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivit
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\System.dll.gz
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\BlazorLearningActivity.dll.gz
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
@@ -1221,11 +1226,6 @@ C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivit
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll.gz
-C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
-C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\BlazorLearningActivity.dll
-C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\BlazorLearningActivity.pdb
-C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\BlazorLearningActivity.pdb.gz
-C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\wwwroot\_framework\BlazorLearningActivity.dll.gz
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\BlazorLearningActivity.staticwebassets.runtime.json
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\BlazorLearningActivity.dll
 C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity\bin\Debug\net7.0\BlazorLearningActivity.pdb

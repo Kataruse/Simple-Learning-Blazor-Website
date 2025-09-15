@@ -16,18 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\nicka\Source\Repos\Simple-Learning-Blazor-Website\BlazorLearningActivity
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/nicka/source/repos/Simple-Learning-Blazor-Website/BlazorLearningActivity/App.razor]
+[C:/Users/nicka/Source/Repos/Simple-Learning-Blazor-Website/BlazorLearningActivity/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicka/source/repos/Simple-Learning-Blazor-Website/BlazorLearningActivity/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
+[C:/Users/nicka/Source/Repos/Simple-Learning-Blazor-Website/BlazorLearningActivity/Pages/Homepage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZXBhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicka/source/repos/Simple-Learning-Blazor-Website/BlazorLearningActivity/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+[C:/Users/nicka/Source/Repos/Simple-Learning-Blazor-Website/BlazorLearningActivity/Pages/PageTwo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVR3by5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicka/source/repos/Simple-Learning-Blazor-Website/BlazorLearningActivity/_Imports.razor]
+[C:/Users/nicka/Source/Repos/Simple-Learning-Blazor-Website/BlazorLearningActivity/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nicka/Source/Repos/Simple-Learning-Blazor-Website/BlazorLearningActivity/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nicka/Source/Repos/Simple-Learning-Blazor-Website/BlazorLearningActivity/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
