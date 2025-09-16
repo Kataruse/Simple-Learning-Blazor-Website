@@ -1,16 +1,16 @@
-- As a developer, I want to create a new blank Blazor project, so that I’ll have a
+R1 - As a developer, I want to create a new blank Blazor project, so that I’ll have a
 basic working environment to start with.
 
-- As a developer, I want to explore and figure out how Blazor’s file structure works,
+R2 - As a developer, I want to explore and figure out how Blazor’s file structure works,
 so that I’ll know how to properly develop with it.
 
-- As a user, I want a basic home page that has some kind of basic text on it, so
+R3 - As a user, I want a basic home page that has some kind of basic text on it, so
 that I have a homepage to go to.
 
-- As a user, I want a navigation bar, so that I can move between page 1 and page 2.
-
-- As a user, I want some kind of styling on the home page that is different from
+R3.1 - As a user, I want some kind of styling on the home page that is different from
 the second page, so that I can tell when I navigate between them.
 
-- As a user, I want the second page to have different text on it from the homepage,
+R4 - As a user, I want the second page to have different text on it from the homepage,
 so that I can tell when I navigate between them.
+
+R5 - As a user, I want a navigation bar, so that I can move between page 1 and page 2.
